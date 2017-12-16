@@ -6,7 +6,7 @@ This is based on a similar project that connects Smartthings to Pre 2012 LG Smar
 Reference:
 https://github.com/dan06/SmartThings-LG-Smart-TV
 
-Allows you to connect your LG Smart TV to Smartthings, use some basic controls and power off the TV through commands such as Alexa/ActionTiles/Home Assistant etc. At the minute the only control you can use through these apps is power off.
+Allows you to connect your LG Smart TV to Smartthings, use some basic controls and power off the TV through commands such as Alexa/ActionTiles/Google Assistant etc. At the minute the only control you can use through these apps is power off.
 
 Simply add the Device Discovery Smart App and Device Handler to your IDE and follow the instructions. You LG Smart TV must be powered on and allowing remote control.
 
