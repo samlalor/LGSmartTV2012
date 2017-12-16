@@ -10,7 +10,7 @@ Allows you to connect your LG Smart TV to Smartthings, use some basic controls a
 
 Simply add the Device Discovery Smart App and Device Handler to your IDE and follow the instructions. You LG Smart TV must be powered on and allowing remote control.
 
-This will NOT turn the on as it sends XML Packages to the TV over the network and it wont respons to these packages when powered off.
+This will NOT turn the on as it sends XML Packages to the TV over the network and it wont respond to these packages when powered off.
 
 For more information on the LG Remote App API please see: http://developer.lgappstv.com/TV_HELP/index.jsp?topic=%2Flge.tvsdk.references.book%2Fhtml%2FUDAP%2FUDAP%2FHandleTouchMove.htm
 
